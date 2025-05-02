@@ -20,5 +20,5 @@ I'm a Full Stack Data Scientist | AI Specialist | Machine Learning Enthusiast
 
 ![Capture](https://github.com/user-attachments/assets/41cb8894-2518-45d7-a86d-d30584304d5e)
 
-#python
-
+Languages and Tools:
+android angular angularjs aws babel backbonejs bootstrap c cplusplus csharp css3 django docker gcp gulp html5 java javascript matlab mongodb mssql mysql nextjs nginx nodejs opencv oracle pandas php postgresql pug python pytorch rails react redux sass scikit_learn sculpin seaborn solr svelte tailwind tensorflow typescript vuejs vuetify webpack wx_widgets zapier
