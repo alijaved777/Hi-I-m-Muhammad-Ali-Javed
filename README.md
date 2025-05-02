@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad Hassan</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Ali Javed</h1>
 <h3 align="center">I'm a Full Stack Data Scientist | AI Specialist | Machine Learning Enthusiast</h3>
 
 ![Full Stack Data Scientist](https://github.com/MHassanAI/MHassanAI/assets/156025933/a91bddde-92e8-476c-bda8-08f342fba264)
