@@ -16,3 +16,8 @@ I'm a Full Stack Data Scientist | AI Specialist | Machine Learning Enthusiast
 👯 I’m looking to collaborate for Long term
 
 🔍 Skills & Expertise: Data Science | Machine Learning | Deep Learning Natural Language Processing | Computer Vision Big Data Technologies | Cloud Computing (AWS, GCP, Azure) Statistical Analysis | Data Visualization | Agile Methodologies
+
+
+![Capture](https://github.com/user-attachments/assets/41cb8894-2518-45d7-a86d-d30584304d5e)
+
+
